@@ -1,5 +1,6 @@
 {
 "version": "1.0.0",
+"changelog_url": "http://raw.githubusercontent.com/Hxcktivist/ARM_BB/main/ChangLog.txt",
 "download_url": "https://raw.githubusercontent.com/Hxcktivist/ARM_BB/main/ARM.zip",
 "file_exe": "ARM"
 }
