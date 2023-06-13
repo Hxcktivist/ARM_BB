@@ -1,4 +1,0 @@
-; Ver 1.9
-/*
-This is the reason for updating
-*/
